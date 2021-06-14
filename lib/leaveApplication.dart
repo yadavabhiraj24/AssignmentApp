@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-import 'leave_application.dart';
+import 'applicationScreen.dart';
 
 class ApplyLeave extends StatelessWidget {
   const ApplyLeave({Key? key}) : super(key: key);
