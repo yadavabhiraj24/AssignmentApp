@@ -31,7 +31,7 @@ class ApplyLeave extends StatelessWidget {
                 child: Text(
                   head,
                   textAlign: TextAlign.start,
-                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
+                  style: TextStyle(fontSize: 19, fontWeight: FontWeight.w700),
                 ),
               ),
               SizedBox(
@@ -41,7 +41,7 @@ class ApplyLeave extends StatelessWidget {
                 alignment: Alignment.centerLeft,
                 child: Text(
                   subhead,
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w300),
+                  style: TextStyle(fontSize: 17, fontWeight: FontWeight.w300),
                 ),
               ),
               Row(
@@ -52,7 +52,7 @@ class ApplyLeave extends StatelessWidget {
                       date,
                       textAlign: TextAlign.right,
                       style:
-                          TextStyle(fontSize: 15, fontWeight: FontWeight.w300),
+                          TextStyle(fontSize: 14, fontWeight: FontWeight.w300),
                     ),
                   ),
                   SizedBox(
@@ -66,7 +66,7 @@ class ApplyLeave extends StatelessWidget {
                       child: Text("APPLY",
                           style: TextStyle(
                               fontWeight: FontWeight.w700,
-                              fontSize: 18,
+                              fontSize: 19,
                               color: Colors.blue[700])))
                 ],
               ),
@@ -119,7 +119,7 @@ class ApplyLeave extends StatelessWidget {
                     style: TextStyle(
                         color: Colors.blue[700],
                         fontWeight: FontWeight.bold,
-                        fontSize: 15),
+                        fontSize: 14),
                   ),
                 )
               ],

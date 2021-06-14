@@ -38,7 +38,7 @@ class CalendarHoliday extends StatelessWidget {
                   alignment: Alignment.centerLeft,
                   child: Text(
                     subhead,
-                    style: TextStyle(fontSize: 15, fontWeight: FontWeight.w400),
+                    style: TextStyle(fontSize: 14, fontWeight: FontWeight.w400),
                   ))
             ],
           ));
@@ -76,7 +76,7 @@ class CalendarHoliday extends StatelessWidget {
                     style: TextStyle(
                         color: Colors.blue[700],
                         fontWeight: FontWeight.bold,
-                        fontSize: 15),
+                        fontSize: 14),
                   ),
                 )
               ],

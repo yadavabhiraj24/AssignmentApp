@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 child: Icon(
                                   Icons.home,
                                   color: Colors.white,
-                                  size: 26,
+                                  size: 32,
                                 ),
                               )
                             ],
@@ -130,7 +130,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               Text(
                                 "Leave & Regularization History    -",
                                 style: TextStyle(
-                                    fontSize: 12.5,
+                                    fontSize: 12.3,
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold),
                               ),
@@ -171,7 +171,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               Text(
                                 "Time report -            Team              -",
                                 style: TextStyle(
-                                    fontSize: 12.5,
+                                    fontSize: 12.3,
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold),
                               ),

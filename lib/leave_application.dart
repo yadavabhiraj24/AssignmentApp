@@ -79,7 +79,7 @@ class _ApplyForLeaveState extends State<ApplyForLeave> {
               alignment: Alignment.topLeft,
               child: Text(
                 "Leave & Attendance",
-                style: TextStyle(fontSize: 15),
+                style: TextStyle(fontSize: 14),
               ),
             ),
             Container(
@@ -335,7 +335,7 @@ class _ApplyForLeaveState extends State<ApplyForLeave> {
                     },
                     child: Text(
                       "Confirm",
-                      style: TextStyle(fontSize: 15, color: Colors.white),
+                      style: TextStyle(fontSize: 14, color: Colors.white),
                     ),
                   ),
                 ),
